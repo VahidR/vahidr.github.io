@@ -5,6 +5,7 @@ type: "post"
 tags: ["kubernetes", "security"]
 ---
 
+![Credit: growtika](https://images.unsplash.com/photo-1667372459470-5f61c93c6d3f?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 #### Background
 Kubernetes has become the de facto container orchestration platform, empowering organizations to deploy, scale, and manage
