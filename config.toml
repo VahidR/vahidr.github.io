@@ -43,7 +43,7 @@ pre = "<span data-feather='github'></span>"
     # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
     avatarSize = "size-l"
     # Description to display on homepage
-    description = "A pilgrim of Hackerdom"
+    description = "A Pilgrim Of The Hackerdom"
     # Accent color is displayed when you hover over <a> tags
     accentColor = "#FF4D4D"
     # Display "back to top" button on posts
