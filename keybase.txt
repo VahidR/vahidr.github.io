@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/vahid_r
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vahid-r.com
+  * I am vahid_r (https://keybase.io/vahid_r) on keybase.
+  * I have a public key with fingerprint 1A71 02F3 5C29 6363 6CA1  2078 91CD 88E1 0C4E 7AB8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120eaa770c52e43984705f39d0f44453f70146c01ed3358262a0b82cc904f72e5040a",
+      "fingerprint": "1a7102f35c2963636ca1207891cd88e10c4e7ab8",
+      "host": "keybase.io",
+      "key_id": "91cd88e10c4e7ab8",
+      "kid": "0101e542f68be2279f68cfaca67d51ab2d17191bdaf549229b077d9665fd7afa65620a",
+      "uid": "ced325e4c525ebd010501693cd4caf19",
+      "username": "vahid_r"
+    },
+    "service": {
+      "hostname": "vahid-r.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1604491110,
+  "expire_in": 157680000,
+  "prev": "aef578d126f258fd0257c91ad24f9c7cce568bd9fbe306905ab3bc8f83b002c9",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJrUFVVFL4oWBAQDaSJgHpILALmnH3ezAgyYRoVMGWjI9b1nH32gSOX
+e2/3BQokmcaF5CEaSTTj4HR5SfyAS1JTBIiUgiBjjdOIAcnLGTEfRORjal8mZ/rR
+3j/23mt/37e+tWb1BSzX+Xkdveic8E/d3+k10FNt1+lPfarmE7JJ2UfE5xPZaOlA
+BgVZbfpsTSHiCZICJJIknichCxBDiwLDk6xKiwqpMgzD0ipPUgwHSQopNM0KgAMS
+KQsAQpFkVB4glmRIiYghVM2YiSxmi2a0YVlK4ikSqDQLgcjReEMJJ+IFkYKKICCK
+hAziJVnAxCyT1cPA5mTJiuI0E47hh37J3v/gH/vGjlgGqJwgIwB4EV+gKkGJ4xWW
+kmSgUDwlUrIiqSwjAiDKJM8rIsexqsJLqsSxHFjybV+Sg7g6wCIGN4FFsoLVWZLi
+RBoqDJRUSvQArchilHIQRjukLE3RW4jCGAIHHRpEnr56CvkvINYSB005mGm2mGwm
+aDLgjyybzWyN9xBt+8weZC6S9f9q6GXNqOAuYoYDWayayUjEUxgJbZpHlOJIhhEp
+iiJjCJRn1ixIr3kQLM8JJF6ePMiBJSWksrygUIBTASuoCglYHoqUpABGFSEPIWJx
+0xRRlRFNciLJSjItQ0EVaJkkAfTUakXvGU1Ym8E+pUysadUyjZLNbkFEYW/Pbm+d
+l59uhc8yz3jp/HyDHg/deFeQrszgmr3VBlpLynU+rx2Jdq/cOZNQdunwAccTe12X
+7xsqC46W3+seZV6dOh28JiPJWhv6giX59W2B23K4oqGy1vIToi1lZr7lYeNG/vnt
+65onFwLXzka9Y2j7he7e2RU+7P919dyve4+fC9s1E2zekTv5e6xjRVRHXfO1aenq
+VfGTrS/2tbWvczuccwHZqTVp6+/2j/Qbd7d+kZZZ6vOkq2WxpaSMnU25+0xtbZOr
+hq/3bg/uTMudWCw++Sgxu60eVNw46Bj9MfQMNTF1xeZytkdsuXl6/BXHJrLyjVUF
+Z1a5n3Xu95mKDO9Yu3kg8a/epA8HS/r/ntnV3HuIj/Wv6rjwYMNU+g8jNfa+Ode9
+saD8luh84g9+sC3vvPHmb/Di/PBCwttdxw67Vxvq4vwbvM/maYvB51oif55sv95A
+HwcBHw91fxny3Ije9/tD43UHq7wGm7f6TINlfwZeSbY2Ft54Wv+orDrMTOkdjRVJ
+l+oHx74LLXYa3o9wm8Maw1+mPku3TZwXK+MLfopM+tZ3E+rxblqTmn92dUXe/VLg
+9nu450AIge580GS5/G7Iho+U9KrbyTvePLPSe0xXnHJhz+1jMPs6WzytZXRtbr12
+6qm8lxLe+upkxPqBb+Y31tcNlJrLnUOfG0adTOLywuFFv6rtDUX2zluFGVFh9oQT
+D+7MihXmI9FhC0WJsf8Aue/Ecg==
+=oYcA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vahid_r
+
+==================================================================
