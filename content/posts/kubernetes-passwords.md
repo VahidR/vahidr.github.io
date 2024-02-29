@@ -78,4 +78,4 @@ Consider using tools like Sealed Secrets or external solutions to encrypt sensit
 This adds an extra layer of security, especially when managing secrets in version control systems.
 
 
-That is all I know about the problem and the techniques to mitigate the threads against it, up to now.  
+That is all I know about the problem and the techniques to mitigate the threads against it, up to this point.  
