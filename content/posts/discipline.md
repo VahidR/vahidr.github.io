@@ -19,7 +19,7 @@ I was 10 years old kid) that pushed me to change.
 
 **For the next 4 months, I only ate the same lunch, took a walk from 13:45 to 14:30, wrote a heck of code, read multiple 
 technical books on a regular basis, and detoxed my brain from most of the poisons and pains that I fed myself 
-during the years due to the lack of discipline!**
+during the
 
 It was like doing strength training or martial arts and hating it in the beginning, but then one sees the results and 
 the effects on confidence and personality. For me, it was the same process, but at the mind level and not the muscles.
@@ -36,3 +36,7 @@ lasted for only 4 months. Nonetheless, as **Immanuel Kant** says himself:
 Today is "28 Feb 2024", and I look at those days with honor and respect. If I die tomorrow, and they ask me 
 about the accomplishments of my life, I will emphasize that four months period and having such a good-hearted and 
 hardworking son, Ryan...
+
+---
+
+For comments, please send me 📧 [*<span style="border-bottom: 1px dashed #666;">an email</span>*](mailto:vahid.rafiei@gmail.com).

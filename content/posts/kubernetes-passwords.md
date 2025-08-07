@@ -79,3 +79,8 @@ This adds an extra layer of security, especially when managing secrets in versio
 
 
 That is all I know about the problem and the techniques to mitigate the threads against it, up to this point.  
+
+
+---
+
+For comments, please send me 📧 [*<span style="border-bottom: 1px dashed #666;">an email</span>*](mailto:vahid.rafiei@gmail.com).
