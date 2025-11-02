@@ -37,6 +37,13 @@ weight = 3
 # We use feather-icons: https://feathericons.com/
 pre = "<span data-feather='github'></span>"
 
+
+##‌ RSS
+[outputs]
+home    = ["HTML", "RSS"]     # => https://vahid-r.com/index.xml
+section = ["HTML", "RSS"]     # => https://vahid-r.com/posts/index.xml
+
+
 [params]
     # URL for the avatar on homepage
     avatarURL = "/images/vahid.jpeg"
@@ -50,7 +57,9 @@ pre = "<span data-feather='github'></span>"
     ShowBackToTopButton = true
     # You can use this to inject any HTML in the <head> tag.
     # Ideal usecase for this is to import custom js/css or add your analytics snippet
-    customHeadHTML = ""
+    customHeadHTML = """
+        <link rel="alternate" type="application/rss+xml" title="Vahid Rafiei — RSS" href="/index.xml" />
+    """
     # Keywords relevant for SEO
     metaKeywords = ["blog", "vahid", "rafiei", "security"]
     # If you want to display posts on the homepage, the options are
