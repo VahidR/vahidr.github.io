@@ -91,7 +91,7 @@ func main() {
 
 ```
 
-#### Good-To-Remember
+#### Items to remember 
 
 * **Automatic Help:** Run your program with `-h` or `--help`. The `flag` package automatically generates a clean usage menu based on your descriptions.
 * **Boolean Values:** Unlike other types, a boolean flag doesn't need a value. Just saying `-debug` sets it to `true`. If you want to set it to `false` explicitly, you *must* use an equals sign: `-debug=false`.
@@ -148,7 +148,6 @@ func main() {
 }
 ```
 
-***
 
 #### Items to remember
 
