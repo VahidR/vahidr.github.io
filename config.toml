@@ -34,11 +34,17 @@ identifier = "github"
 url = "https://github.com/VahidR"
 weight = 3
 
+[[menu.main]]
+identifier = "rss"
+name = "RSS"
+url = "https://vahid-r.com/posts/index.xml"
+weight = 4
+
 # We use feather-icons: https://feathericons.com/
 pre = "<span data-feather='github'></span>"
 
 
-##‌ RSS
+## RSS
 [outputs]
 home    = ["HTML", "RSS"]     # => https://vahid-r.com/index.xml
 section = ["HTML", "RSS"]     # => https://vahid-r.com/posts/index.xml
