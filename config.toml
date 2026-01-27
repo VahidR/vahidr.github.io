@@ -35,10 +35,6 @@ name = "RSS"
 url = "https://vahid-r.com/posts/index.xml"
 weight = 3
 
-[[menu.main]]
-identifier = "github"
-url = "https://github.com/VahidR"
-weight = 4
 
 # We use feather-icons: https://feathericons.com/
 pre = "<span data-feather='github'></span>"
