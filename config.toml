@@ -47,6 +47,8 @@ section = ["HTML", "RSS"]     # => https://vahid-r.com/posts/index.xml
 
 
 [params]
+    # Favicon
+    favicon = "/images/glider.png"
     # URL for the avatar on homepage
     avatarURL = "/images/vahid.jpeg"
     # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
