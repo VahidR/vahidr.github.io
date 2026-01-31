@@ -48,7 +48,7 @@ section = ["HTML", "RSS"]     # => https://vahid-r.com/posts/index.xml
 
 [params]
     # Favicon
-    favicon = "/images/glider.png"
+    favicon = "/favicon.png"
     # URL for the avatar on homepage
     avatarURL = "/images/vahid.jpeg"
     # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
@@ -63,6 +63,9 @@ section = ["HTML", "RSS"]     # => https://vahid-r.com/posts/index.xml
     # Ideal usecase for this is to import custom js/css or add your analytics snippet
     customHeadHTML = """
         <link rel="alternate" type="application/rss+xml" title="Vahid Rafiei — RSS" href="/index.xml" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
+        <link rel="apple-touch-icon" href="/favicon.png">
     """
     # Keywords relevant for SEO
     metaKeywords = ["blog", "vahid", "rafiei", "security"]
