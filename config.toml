@@ -80,5 +80,4 @@ section = ["HTML", "RSS"]     # => https://vahid-r.com/posts/index.xml
         {name = "twitter", url = "https://twitter.com/vahid_r"},
         {name = "linkedin", url = "https://www.linkedin.com/in/vahidrafiei"},
         {name = "github", url = "https://github.com/VahidR"},
-        {name = "keybase", url = "https://keybase.io/vahid_r"}
     ]
