@@ -5,8 +5,6 @@ type: "post"
 tags: ["kubernetes", "security"]
 ---
 
-# Scanning Helm Charts at Scale with helmsniff
-
 *A practical guide for developers and security researchers.*
 
 ---
