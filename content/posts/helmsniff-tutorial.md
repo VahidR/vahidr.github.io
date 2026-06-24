@@ -1,6 +1,6 @@
 ---
 title: "Scanning Helm Charts at Scale with helmsniff"
-date: 2026-06-24T23:32:05+01:00
+date: 2026-06-24T13:32:05+01:00
 type: "post"
 tags: ["kubernetes", "security"]
 ---
